@@ -9,5 +9,3 @@
 
 *****
 *Note: Links will be updated as content gets added. Content subject to change*
-
-### Weekly Topics
