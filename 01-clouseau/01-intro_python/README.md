@@ -2,7 +2,7 @@
 
 [A thought for the day](https://twitter.com/hadleywickham/status/565516534089785344)
 
-**6:00 PM**: Rolling start with dinner
+**6:00 PM**: Rolling start with dinner :pizza:
 
 * Make sure you have  
     * The [Slack app](https://slack.com/apps) on your laptop and phone
