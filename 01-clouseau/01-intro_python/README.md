@@ -5,7 +5,7 @@
 **6:00 PM**: Rolling start with dinner
 
 * Make sure you have  
-    * The [Slack app(https://slack.com/apps) on your laptop and phone
+    * The [Slack app](https://slack.com/apps) on your laptop and phone
         * Access to this repository
         * [Git](http://git-scm.com/) installed (check `git --version`)
         * Your GitHub account set up
