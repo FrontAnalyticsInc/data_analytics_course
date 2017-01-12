@@ -2,7 +2,7 @@
 
 [Thought of the day](https://twitter.com/sanityinc/status/581079954307305472)
 
-**6:00 PM** Good evening!
+**6:00 PM** Good evening! :full_moon_with_face:
 
 **6:15 PM** Pair programming exercise
 
