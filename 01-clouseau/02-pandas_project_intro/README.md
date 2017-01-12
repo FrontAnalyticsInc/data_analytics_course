@@ -15,3 +15,8 @@
    * Inital problem statement from client email
    * Challenges to help you work with the data
    * Brainstorm as a team
+   
+   
+###More resources
+* [Pandas Bootcamp](https://pandasbootcamp.herokuapp.com/) 
+* [Python walkthru notebook](https://pandasbootcamp.herokuapp.com/)  
