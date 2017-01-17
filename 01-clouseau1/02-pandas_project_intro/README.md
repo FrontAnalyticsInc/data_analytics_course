@@ -8,7 +8,7 @@
 
 **7:00 PM** Pandas for data analysis presentation
 
-**7:30 PM** Pandas demo w/ walkthru
+**7:30 PM** Pandas + basic visualization demo
 
 **8:00 PM** Project Clouseau intro
 
