@@ -91,6 +91,8 @@ ENV/
 # Emacs
 *~
 
+.idea/
+
 # DATA
 data/
 *.csv
