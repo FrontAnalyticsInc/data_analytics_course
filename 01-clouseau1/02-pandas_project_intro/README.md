@@ -18,5 +18,6 @@
    
    
 ###More resources
+* [Pandas Cheatsheet](http://blog.yhat.com/posts/pandas-cheat-sheet.html)
 * [Pandas Bootcamp](https://pandasbootcamp.herokuapp.com/) 
 * [Python walkthru notebook](https://pandasbootcamp.herokuapp.com/)  
