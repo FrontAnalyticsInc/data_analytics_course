@@ -4,10 +4,12 @@
 
 **6:00 PM** Good evening! :bowtie:
 
-**6:15 PM** Pair programming exercise
+**6:15 PM** Pair programming exercise OR review exercises
 
-**7:00 PM** Business metrics and asking the right questions
+**7:00 PM** Getting setup with SQL
+* Postgres (app for Macs)
+* Sqlite
 
-**7:30 PM** Getting data with BeautifulSoup
+**7:30 PM** SQL and database basics
 
 **8:00 PM** Quick intro to getting setup with Sqlite

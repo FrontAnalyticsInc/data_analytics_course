@@ -1,6 +1,4 @@
-## Project Clouseau
 
-![](clouseau.png)
 
 An email from a potential client:
 
