@@ -15,7 +15,7 @@ together would make sense for both parties.
 of data analytics to help us optimize our approach in finding
 organizations in SLC to partner with.  
 >
-> WatershedMomentUtah (WMU) works with organizations like 
+> Watershed Moment Utah (WMU) works with organizations like 
 schools, churches and businesses to help them find ways to 
 increase efficient water usage and reduce waste.  
 >

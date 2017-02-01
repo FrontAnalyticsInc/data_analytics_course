@@ -12,7 +12,7 @@
 
 **8:00 PM** Project Clouseau intro
 
-   * [Initial problem statement from client email](projects/01-clouseau/README.md)
+   * [Initial problem statement from client email](../projects/01-clouseau/README.md)
    * Challenges to help you work with the data
    * Brainstorm as a team
    
