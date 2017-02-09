@@ -28,7 +28,7 @@
 * Nhi Doan
     * [Administrivia](Administrivia.md)
     
-**6:55 PM**: Getting setup with the class repo
+**6:55 PM**: [Getting setup with the class repo](https://docs.google.com/a/frontanalytics.com/document/d/1n4ZdzpEjs9QVcaCldtKJgUvaH3IwFkk3vjQeuLJpMYI/edit?usp=sharing)
 * Review of `git` basics
 
 **7:30 PM**: Short break
