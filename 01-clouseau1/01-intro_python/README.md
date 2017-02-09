@@ -21,7 +21,7 @@
     * Your background (work, education)
     * An interesting quirk (something interesting/ surprising)
     
-**6:30 PM**: Intro to bootcamp
+**6:30 PM**: [Intro to bootcamp](Bootcamp_Introduction.pdf)
 
 **7:00 PM**: Introductions to DevPoint Labs staff
 
