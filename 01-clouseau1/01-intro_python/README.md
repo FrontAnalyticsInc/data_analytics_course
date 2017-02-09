@@ -37,3 +37,7 @@
 **7:50 PM**: [Intro to data analysis process]()
 
 **8:00 PM**: Review Python data structures
+
+## More resources
+* [Basic getting started with Git](http://rogerdudler.github.io/git-guide/)
+* [Python, Pandas and Matplotlib cheatsheets](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
