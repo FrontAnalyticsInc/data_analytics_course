@@ -6,9 +6,13 @@
 
 **6:15 PM** Pair programming exercise
 
-**7:00 PM** Pandas for data analysis presentation
+**6:45 PM**: [What is the role of the data analyst in the company?]()
 
-**7:30 PM** Pandas + basic visualization demo
+**6:55 PM**: [Intro to data analysis process]()
+
+**7:10 PM** Pandas for data analysis presentation
+
+**7:30 PM** Short break
 
 **8:00 PM** Project Clouseau intro
 

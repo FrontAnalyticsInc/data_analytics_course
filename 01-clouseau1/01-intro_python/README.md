@@ -21,23 +21,24 @@
     * Your background (work, education)
     * An interesting quirk (something interesting/ surprising)
     
-**6:30 PM**: Intro to bootcamp
+**6:30 PM**: [Intro to bootcamp](Bootcamp_Introduction.pdf)
 
-**7:00 PM**: Introductions to DevPoint Labs staff
+**6:45 PM**: Introductions to DevPoint Labs staff
 
 * Nhi Doan
     * [Administrivia](Administrivia.md)
     
-**7:10 PM**: Customizing your shell and git
+**6:55 PM**: Getting setup with the class repo
+* Review of `git` basics
 
 **7:30 PM**: Short break
 
-**7:40 PM**: [What is the role of the data analyst in the company?]()
-
-**7:50 PM**: [Intro to data analysis process]()
+**7:40 PM**: Review of command line basics
 
 **8:00 PM**: Review Python data structures
 
+
 ## More resources
+* [Keeping your fork in sync](https://help.github.com/articles/fork-a-repo/)
 * [Basic getting started with Git](http://rogerdudler.github.io/git-guide/)
 * [Python, Pandas and Matplotlib cheatsheets](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
