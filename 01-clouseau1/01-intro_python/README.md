@@ -39,5 +39,6 @@
 **8:00 PM**: Review Python data structures
 
 ## More resources
+* [Keeping your fork in sync](https://help.github.com/articles/fork-a-repo/)
 * [Basic getting started with Git](http://rogerdudler.github.io/git-guide/)
 * [Python, Pandas and Matplotlib cheatsheets](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
