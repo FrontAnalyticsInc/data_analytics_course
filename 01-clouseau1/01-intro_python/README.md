@@ -42,3 +42,4 @@
 * [Keeping your fork in sync](https://help.github.com/articles/fork-a-repo/)
 * [Basic getting started with Git](http://rogerdudler.github.io/git-guide/)
 * [Python, Pandas and Matplotlib cheatsheets](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
+* [Builtin Superheros](https://youtu.be/j6VSAsKAj98?list=LLnOPU_YQJoz4VlqjCDgsBAQ) is a great video doing data analysis with just built-in Python structures
