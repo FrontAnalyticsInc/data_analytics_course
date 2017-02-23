@@ -1,11 +1,16 @@
 ### FrontAnalytics Data Analysis Cohort 1 (Winter 2017)
 *****
+Welcome to the Data Analytics BootCamp!
+
+To get started clone this repo by typing this command in your terminal:
+
+git clone https://github.com/FrontAnalyticsInc/data_analytics_course.git
 
 ### Table of Contents
 ####[Pre-work](http://bit.ly/2hfVXgX)
 
 ####Class work
-* [Class signups](https://docs.google.com/a/frontanalytics.com/spreadsheets/d/1JJKP3q_U6qJ5h0WRF9alfGHWolJxSP8hYVU7PwNjxTM/edit?usp=sharing)
+ExercisesByWeek - Contains a separate folder for each week of class with the materials needed for the in class exercises.
 
 *****
 *Note: Links will be updated as content gets added. Content subject to change*
