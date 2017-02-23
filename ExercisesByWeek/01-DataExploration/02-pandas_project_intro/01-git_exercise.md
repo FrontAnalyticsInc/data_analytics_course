@@ -2,6 +2,8 @@
 
 Objective: Create a git repository, add files, edit files and commit changes. Repeat. Push to your github repo.
 
+## Creating a code repository in git
+
 Open the Terminal
 
 `git init`
@@ -44,7 +46,9 @@ Check the status again:
 
 Repeat this process 3-5 times until you get comfortable editing files and pushing them to the repo. Try adding new files and folders as well.
 
-Add your repo to git.
+Stop Here.
+
+##Add your repo to github.com##
 
 Goto github.com and click the + button to add a new repo. Copy the url of the repo to your clipboard
 
