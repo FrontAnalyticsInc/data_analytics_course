@@ -102,3 +102,4 @@ data/
 .ipynb_checkpoints/
 .DS_Store
 gitbook_helpers/*
+Projects/Refactoring/*
