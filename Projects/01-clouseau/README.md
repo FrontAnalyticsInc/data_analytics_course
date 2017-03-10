@@ -4,7 +4,7 @@
 
 An email from a potential client:
 
-> Bob - 
+> Agent, 
 >
 > It was so nice to meet you at the water shed event and learn
 about your skills in data analysis. 
@@ -27,11 +27,12 @@ kind of organization is more likely to consume water, etc. I'm sure
 those would be very beneficial to us.
 >
 > The ball is in your court now -- do you think this would be
-feasible for your group? Ideally a PDF report would be the 
-most helpful. From there we can explore what kind
+feasible for your group? From there we can explore what kind
 of engagement would make sense for all of us going forward.
 >  
 >  
 >Best,  
 >Jake and Daphne  
 >Watershed Moment Utah
+
+>P.S. This datasource could be helpful to you: https://waterdata.usgs.gov/ut/nwis/water_use?wu_year=ALL&wu_area=County&wu_county=ALL&wu_category=ALL&submitted_form=introduction&wu_county_nms=--ALL+Counties--&wu_category_nms=--ALL+Categories--
